@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-parents-section {
+    position: relative;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.header-parents-section img {
+    height: 665px;
+    width: 1370px
+}
+
+.header-child-section {
+    position: absolute;
+    margin-top: -510px;
+    margin-left: 700px;
+    margin-right: 60px;
+    text-align: right;
+    height: 400px;
+    width: 500px;
+
+}
+
+.header-child-h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 50px;
+
+}
+
+.header-child-p {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    padding: 20px;
+    margin-right: -20px;
+
+}
+
+.header-button {
+    height: 50px;
+    width: 133px;
+    padding: 15px 10;
+    font-size: 17px;
+    background-color: rgba(255, 102, 0, 0.822);
+    border: none;
+    border-radius: 5px;
+    color: white;
+
+}
